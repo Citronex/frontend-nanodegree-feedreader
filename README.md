@@ -1,6 +1,6 @@
 # Project Overview
 
-Udacity project serving the purpose of introduction to Jasmin: behavior-driven JavaScript testing framework. 
+Udacity project serving the purpose of testing knowledge on Jasmin: behavior-driven JavaScript testing framework. 
 
 
 ##  How to Run Appilcation
